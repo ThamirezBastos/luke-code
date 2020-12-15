@@ -4,6 +4,8 @@
 
 <h2>Projeto em React , criado com npx create-react-app</h2>
 
+---
+
 ## Available Scripts	
 
 In the project directory, you can run:	
